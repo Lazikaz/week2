@@ -152,8 +152,8 @@ let foodArr = [{
 */
 
 //CODE HERE
-//const filteredFood = foodArr.filter(element => element.tags.includes("2"))
-//console.log(filteredFood)
+const filteredFood = foodArr.filter(element => element.tags.includes("2"))
+console.log(filteredFood)
 
 
 //////////////////PROBLEM 5////////////////////
